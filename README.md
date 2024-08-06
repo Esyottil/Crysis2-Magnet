@@ -1,4 +1,3 @@
 ```diff
-##### Basic for the game Crysis 2 version 1.2.0.0.
-- Tesr
+##### - Basic for the game Crysis 2 version 1.2.0.0.
 ```
