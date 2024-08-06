@@ -1,1 +1,1 @@
-##### Basic for the game Crysis 2 version 1.2.0.0.
+##### ![#f03c15]Basic for the game Crysis 2 version 1.2.0.0.
